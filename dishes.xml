@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <group>
+        <group-name>Primeros</group-name>
+        <dish>
+            <image>https://app.cartatotal.com/storage/11996/responsive-images/3CCA7887-84FA-4461-9116-31F219DAFF5B___media_library_original_599_398.jpeg</image>
+            <name>Ensalada de balacao con pesto</name>
+            <description>Brotes tiernos de ensalada, Bacalao confitado, Salsa pesto y Tomates cherry</description>
+            <price>15,80€</price>
+        </dish>
+        <dish>
+            <image>https://www.goodnes.com/sites/g/files/jgfbjl321/files/srh_recipes/755f697272cbcdc6e5df2adb44b1b705.jpg</image>
+            <name>Ensalada César</name>
+            <description>Pollo rebozado, Cogollos de Tudela, Piñones, Pasas, Queso parmesano y Salsa de yogurt</description>
+            <price>13,20€</price>
+        </dish>
+        <dish>
+            <image>https://app.cartatotal.com/storage/12006/responsive-images/DA34D4B1-05F8-4D72-8BAA-C3DB717676C9___media_library_original_599_399.jpeg</image>
+            <name>Lasaña de verduras</name>
+            <description>Ajo asado, Berenjena asada, Zanahoria, Cebolla morada, Puerro, Apio, Calabacín, Salsa de tomate, Tomate, Pimiento rojo, Champiñon, Vino blanco, Coñac, Orégano</description>
+            <price>14,30€</price>
+        </dish>
+    </group>
+    <group>
+        <group-name>Segundos</group-name>
+        <dish>
+            <image>https://app.cartatotal.com/storage/12007/responsive-images/ED19FE25-B466-48BD-BDC7-1DFBA50E0ECA___media_library_original_599_398.jpeg</image>
+            <name>Arroz caldoso de mariscos</name>
+            <description>(mínimo 2 personas)</description>
+            <price>21€/persona</price>
+        </dish>
+        <dish>
+            <image>https://app.cartatotal.com/storage/12008/responsive-images/3D33034E-1CA8-4572-ABB1-EA9AA5F67C10___media_library_original_599_399.jpeg</image>
+            <name>Merluza con salsa de mango y verduras salteadas</name>
+            <description>Puré de mango, salsa de soja, vino tinto, aceite de sésamo, pimiento rojo, berenjena y guisantes</description>
+            <price>16,50€</price>
+        </dish>
+        <dish>
+            <image>https://app.cartatotal.com/storage/12014/responsive-images/7E114FC1-37F3-4E32-8575-E593856778D7___media_library_original_599_399.jpeg</image>
+            <name>Solomillo de ternera y pimiento morrón</name>
+            <description>Solomillo de ternera asado con sal, acompañado de cebolla, zanahoria, pimiento rojo asado, tomate y vino tinto</description>
+            <price>23,00€</price>
+        </dish>
+    </group>
+    <group>
+        <group-name>Postres</group-name>
+        <dish>
+            <image>https://app.cartatotal.com/storage/12019/responsive-images/DCE93955-C1E8-47D3-9EDE-450EB486A2FD___media_library_original_599_398.jpeg</image>
+            <name>Tarta de chocolate</name>
+            <description>Harina, Chocolate negro, Mantequilla, Nuez, Azúcar y Huevos</description>
+            <price>6,50€</price>
+        </dish>
+        <dish>
+            <image>https://app.cartatotal.com/storage/12020/responsive-images/093DE460-FA8B-45D0-9CBA-4B749B563125___media_library_original_599_399.jpeg</image>
+            <name>Tarta de queso</name>
+            <description>Queso Fresco, Queso Philadelfia, Leche, Azúcar, Mantequilla, Harina</description>
+            <price>7,00€</price>
+        </dish>
+        <dish>
+            <image>https://app.cartatotal.com/storage/12024/responsive-images/06A8E2B4-3A0B-4675-8B56-8CF783990E41___media_library_original_716_476.jpeg</image>
+            <name>Sorbete de limón</name>
+            <description>Helado de limon, txakoli K Pilota y nata</description>
+            <price>5,00€</price>
+        </dish>
+    </group>
+</menu>
